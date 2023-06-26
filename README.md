@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alelledo
 - 👀 I’m interested in data science and marketing
-- 🌱 I’m currently learning python 
+- 🌱 I am working on building a portfolio 
 
 <!---
 alelledo/alelledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
