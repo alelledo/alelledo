@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @alelledo
-- 👀 I’m interested in data science and marketing
-- 🌱 I am working on building a portfolio
-
-  #  About Me:
+# 👀 About Me:
 Hey, Alejandro here, welcome to my GitHub profile! <br><br>I have an MSc on Marketing Analytics and Data Science, here you can find some of the projects I am working on. 
 
 
