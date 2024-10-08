@@ -2,7 +2,7 @@
 Hey, Alejandro here, welcome to my GitHub profile! <br><br>I have an MSc on Marketing Analytics and Data Science, here you can find some of the projects I am working on. 
 
 
-## 🌐 Connec with me:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alelledo) 
 
 ## 💻 Tech Stack:
